@@ -34,3 +34,7 @@ npm
 # -----------------------------------
 
 *.db
+/node_modules/
+/.idea/
+/codegen/node_modules/
+/codegen/yarn.lock
